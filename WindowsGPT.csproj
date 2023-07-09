@@ -6,7 +6,7 @@
     <UseWPF>true</UseWPF>
     <AssemblyName>WindowsGPT</AssemblyName>
     <AssemblyTitle>Windows GPT</AssemblyTitle>
-    <RootNamespace>ChatGptApp</RootNamespace>
+    <RootNamespace>WindowsGPT</RootNamespace>
     <ApplicationIcon>Images\favicon-32x32.ico</ApplicationIcon>
     <Company>Maxali</Company>
   </PropertyGroup>

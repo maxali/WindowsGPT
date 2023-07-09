@@ -2,7 +2,7 @@ using Hardcodet.Wpf.TaskbarNotification;
 using System.Windows;
 using System.Windows.Input;
 
-namespace ChatGptApp
+namespace WindowsGPT
 {
   public partial class App : Application
   {

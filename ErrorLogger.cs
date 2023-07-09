@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace ChatGptApp
+namespace WindowsGPT
 {
     public class ErrorLogger
     {

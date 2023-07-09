@@ -15,7 +15,7 @@ using System.Windows.Controls.Primitives;
 using Brushes = System.Windows.Media.Brushes;
 using System.Security.Authentication;
 
-namespace ChatGptApp
+namespace WindowsGPT
 {
   public partial class MainWindow : Window
   {

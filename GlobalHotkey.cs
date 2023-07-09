@@ -2,7 +2,7 @@ using System;
 using NHotkey;
 using NHotkey.Wpf;
 
-namespace ChatGptApp
+namespace WindowsGPT
 {
     public class GlobalHotkey
     {

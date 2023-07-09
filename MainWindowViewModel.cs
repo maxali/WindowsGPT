@@ -5,7 +5,7 @@ using System.Windows;
 using System.Windows.Input;
 using Markdig;
 
-namespace ChatGptApp
+namespace WindowsGPT
 {
 
   public class MainWindowViewModel : INotifyPropertyChanged

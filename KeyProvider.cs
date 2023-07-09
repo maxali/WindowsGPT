@@ -4,7 +4,7 @@ using System.Text;
 using Microsoft.AspNetCore.DataProtection;
 
 
-namespace ChatGptApp
+namespace WindowsGPT
 {
   public static class KeyProvider
   {
