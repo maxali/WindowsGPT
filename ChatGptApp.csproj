@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows7.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>WindowsGPT</AssemblyName>
+    <AssemblyTitle>Windows GPT</AssemblyTitle>
+    <RootNamespace>ChatGptApp</RootNamespace>
+    <ApplicationIcon>Images\favicon-32x32.ico</ApplicationIcon>
+    <Company>Maxali</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\favicon-32x32.ico">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.DataProtection" Version="7.0.8" />
+    <PackageReference Include="OpenAI" Version="1.7.2" />
+    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.5.0" />
+    <PackageReference Include="Hardcodet.NotifyIcon.Wpf" Version="1.1.0" />
+    <PackageReference Include="Markdig.Wpf" Version="0.5.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="NHotkey.Wpf" Version="1.2.1" />
+  </ItemGroup>
+
+</Project>
